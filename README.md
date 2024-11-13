@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **CNC Plotter**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **API's**
 
 - 📫 How to reach me **hadumohd@gmail.com**
 
